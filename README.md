@@ -1,4 +1,4 @@
-# Analyzing-the-Accuracy-of-SPP
+# Analyzing the Accuracy of SPP
 ### Analyzing the accuracy of single point position using Matlab.
 Read RINEX navigation file reformat into Matlab Eph matrix.
 Open a RINEX observation file (GPS-only or GPS-GLONASS mixd) analyse the header and identify observation types. 
